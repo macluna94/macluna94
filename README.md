@@ -45,10 +45,10 @@ Soy un especialista en soluciones de datos apasionado por optimizar procesos de 
 
 <div align="center">
   
-  <!-- REEMPLAZA "TU_USUARIO" CON TU USERNAME DE GITHUB EN LAS SIGUIENTES DOS LÍNEAS -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=macluna94&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macluna94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=macluna94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
+  
 </div>
 
 <br>
